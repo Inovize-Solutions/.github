@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://www.inovize.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inovize-Solutions/.github/main/assets/logo-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inovize-Solutions/.github/main/assets/logo-light.png">
-      <img alt="Inovize" src="https://raw.githubusercontent.com/Inovize-Solutions/.github/main/assets/logo-light.png" width="360">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inovize-Solutions/.github/main/assets/logo-wide-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inovize-Solutions/.github/main/assets/logo-wide-light.png">
+      <img alt="Inovize" src="https://raw.githubusercontent.com/Inovize-Solutions/.github/main/assets/logo-wide-light.png" width="360">
     </picture>
   </a>
 </p>
